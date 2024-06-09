@@ -1,0 +1,19 @@
+
+«
+java:S1192"hDefine a constant instead of duplicating this literal "Obesidade grau III (obesidade mÃ³rbida)" 3 times.(ÄÄê8†êìæÿ1J$31ace7a7-3b24-4d8a-8f4b-a8e64d1d6401
+”
+java:S1192"QDefine a constant instead of duplicating this literal "Obesidade grau I" 3 times.(ÏÇ‹Í8†êìæÿ1J$abcbee86-a6b7-4420-a010-4c0f60f968e7
+
+java:S1192"KDefine a constant instead of duplicating this literal "Baixo peso" 4 times.(¤¥Ğ­8†êìæÿ1J$c67073f0-aedc-463f-9cbf-18de99f575b6
+
+java:S1192"LDefine a constant instead of duplicating this literal "Peso normal" 4 times.(¬ßıû8†êìæÿ1J$3d8b85ea-3d94-4d57-b4f1-26f7291383ac
+’
+java:S1192"JDefine a constant instead of duplicating this literal "Sobrepeso" 4 times.(·ßÛ­øÿÿÿÿ8‡êìæÿ1J$d0ef8b09-a62f-46c3-828c-9540a5826f32
+•
+java:S1192"RDefine a constant instead of duplicating this literal "Obesidade grau II" 3 times.(´ƒ¹Å8‡êìæÿ1J$d09cb2b3-cf48-414a-9533-e4f1b94fff24
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 57 to the 15 allowed.(Õİ¢àşÿÿÿÿ8­ÿìæÿ1J$4730b4bd-b8e0-44b1-9b51-a58a80a5a943
+m	java:S106k"+Replace this use of System.out by a logger.(˜ı‚¬8±ÿìæÿ1J$1e4764d0-dc46-4847-aa5d-b0fa2bb22294
+m	java:S106l"+Replace this use of System.out by a logger.(ƒÒÇª8±ÿìæÿ1J$9f78eaeb-75a4-42ca-b9c3-fffe338cbba2
+
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 93 to 64, Complexity from 48 to 14, Nesting Level from 3 to 2, Number of Variables from 10 to 6.(Õİ¢àşÿÿÿÿ8±ÿìæÿ1J$78b67f9b-da6e-46ca-8fcd-02399d376c12
